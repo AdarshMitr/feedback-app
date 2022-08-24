@@ -26,7 +26,7 @@ Header.propTypes={
   text:PropTypes.string,
   bgColor:PropTypes.string,
   textColor:PropTypes.string,
-  textColor:PropTypes.string,
+ 
 }
 
 export default Header
